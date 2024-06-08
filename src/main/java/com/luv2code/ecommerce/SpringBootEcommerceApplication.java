@@ -14,6 +14,7 @@ public class SpringBootEcommerceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEcommerceApplication.class, args);
 		//bingo another change 1
+		//change number 3
 	}
 
 	@Bean
